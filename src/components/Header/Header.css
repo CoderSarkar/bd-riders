@@ -1,0 +1,25 @@
+nav{
+    background: linear-gradient(90deg, rgba(226,10,116,1) 0%, rgba(238,162,62,1) 49%, rgba(212,29,128,1) 100%);
+}
+.navComponent{
+    margin: 10px 10px;
+    color: #fff;
+    font-weight: 500;
+    text-decoration: none;
+}
+.brand{
+    color: #fff;
+    font-weight: 500;
+    font-size: 26px;
+
+}
+.navButton{
+    background: linear-gradient(90deg, rgba(10,226,86,1) 0%, rgba(17,154,93,1) 51%, rgba(12,209,174,1) 100%);;
+    padding: 0px 19px;
+    color: #fff;
+    border: 0px;
+    border-radius: 5px;
+    height: 37px;
+    margin-top: 4px;
+    font-weight: 500;
+}
